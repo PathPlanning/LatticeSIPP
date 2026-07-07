@@ -70,7 +70,7 @@ Here are two examples of the algorithm operating in highly constrained and large
       <video src="https://github.com/user-attachments/assets/e81dd55a-c80e-4f4f-8390-4cadec6c8d21" width="400" controls autoplay loop muted playsinline></video>
     </td>
     <td align="center">
-      <video src="https://github.com/PathPlanning/LatticeSIPP/raw/main/media/demo-denver-1.mp4" width="400" controls autoplay loop muted playsinline></video>
+      <video src="https://disk.yandex.ru/i/1DWKcfHwJxlzdg" width="400" controls autoplay loop muted playsinline></video>
     </td>
   </tr>
   <tr>
