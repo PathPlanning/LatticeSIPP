@@ -1,0 +1,4 @@
+======= Dynamic obstacle description ======
+R: 1
+Start: i=24 j=6 theta=0
+PrimitivesIDs: 0 -10 -10 0 -10 -10 0 -10 -10 0 -10 -10 0 -50
