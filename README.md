@@ -70,7 +70,7 @@ Here are two examples of the algorithm operating in highly constrained and large
       <video src="https://github.com/user-attachments/assets/e81dd55a-c80e-4f4f-8390-4cadec6c8d21" width="400" controls autoplay loop muted playsinline></video>
     </td>
     <td align="center">
-      <video src="https://disk.yandex.ru/i/1DWKcfHwJxlzdg" width="400" controls autoplay loop muted playsinline></video>
+      <video src="https://github.com/user-attachments/assets/42a46162-a6c8-460a-b118-26eb123ca8ab" width="400" controls autoplay loop muted playsinline></video>
     </td>
   </tr>
   <tr>
