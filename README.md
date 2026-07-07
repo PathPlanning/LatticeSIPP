@@ -19,7 +19,7 @@ By defining the state space as discrete poses $(x, y, \theta)$ connected by kine
 The following benchmark summary demonstrates the algorithm solving the exact same task (identical map, start/goal states, and dynamic obstacles) using different control sets. Notice how increasing the expressiveness of the motion primitives (from a minimal kinematically feasible set to expanded $2^k$ sets) dramatically alters the resulting trajectory and execution timing.
 
 <p align="center">
-  <video src="https://github.com/PathPlanning/LatticeSIPP/raw/main/media/benchmark_summary_grid_2_3.mp4" width="800" controls autoplay loop muted playsinline></video>
+  <video src="https://github.com/PathPlanning/LatticeSIPP/raw/main/web-demo-empty-2.mp4" width="800" controls autoplay loop muted playsinline></video>
   <br>
   <em>Visualization of SIPP execution across varying control sets.</em>
 </p>
