@@ -1,4 +1,4 @@
-# State Lattice SIPP: Kinodynamic Planning in Dynamic Environments
+# Path Planning with Motion Primitives in Dynamic Environments: SIPP on Lattices
 
 [![Conference](https://img.shields.io/badge/Conference-ICR_2026-blue)](https://icr.nw.ru/2026/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
