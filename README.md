@@ -90,14 +90,16 @@ Here are two examples of the algorithm operating in highly constrained and large
 If you use this code, ideas, or visualizations in your research, please cite our ICR 2026 paper:
 
 **APA:**
-> Agranovskiy, M. (2026). Path Planning with Motion Primitives in Dynamic Environments: SIPP on Lattices. In *Proceedings of the XI International Conference on Interactive Collaborative Robotics (ICR)*.
+> Agranovskiy, M. (2027). Path Planning with Motion Primitives in Dynamic Environments: SIPP on Lattices. In: Ronzhin, A., Gribova, V., Meshcheryakov, R. (eds) Interactive Collaborative Robotics. ICR 2026. Lecture Notes in Computer Science(), vol 16790. Springer, Cham. https://doi.org/10.1007/978-3-032-34387-1_29
 
 **BibTeX:**
 ```bibtex
-@inproceedings{icr2026_sipp_lattice,
-  author    = {Agranovskiy, Marat},
-  title     = {Path Planning with Motion Primitives in Dynamic Environments: SIPP on Lattices},
-  booktitle = {Proceedings of the XI International Conference on Interactive Collaborative Robotics},
-  year      = {2026},
-  note      = {In print}
+@InProceedings{10.1007/978-3-032-34387-1_29,
+  author="Agranovskiy, Marat",
+  title="Path Planning with Motion Primitives in Dynamic Environments: SIPP on Lattices",
+  booktitle="Interactive Collaborative Robotics",
+  year="2027",
+  publisher="Springer Nature Switzerland",
+  pages="406--420",
 }
+```
